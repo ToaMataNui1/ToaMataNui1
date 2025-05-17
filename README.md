@@ -2,6 +2,7 @@
 
 Some things about me:
 
+- 📍Rutgers University - New Brunswick, dual majoring in Computer Science and Finance
 - 🧠 Know: Java, Python, SQL, HTML, CSS, Dart/Flutter
 - 📚 Learning: React.js, TailwindCSS, FastAPI, Flask, TensorFlow, PostgreSQL, PostGIS, and other AI/ML stuff
 - 🚀 Working on: DermaShielder, aegis.ai - two AI/ML projects
