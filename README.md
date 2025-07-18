@@ -4,7 +4,6 @@ Some things about me:
 
 - 📍Incoming freshman at Rutgers University - New Brunswick
 - 💻 Computer Science and Finance dual major
-- 🧮 Mathematics minor
 - 🧠 Know: Java, Python, SQL, HTML, CSS, Dart/Flutter
 - 📚 Learning: React.js, TailwindCSS, FastAPI, Flask, TensorFlow, PostgreSQL, PostGIS, and other AI/ML stuff
 - 🚀 Working on: DermaShielder, aegis.ai - two AI/ML projects
